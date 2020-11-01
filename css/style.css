@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  margin: 0;
+  padding: 0;
+  background-color: #212121;
+}
+.header hr {
+  border-top: 1px solid #595959 !important;
+}
+.nav a {
+  color: red;
+}
+.header p {
+  color: #ffffff;
+  margin: 15px;
+}
+.header svg {
+  columns: #ff0000;
+}
+.left-sidemenu span:second-child {
+  border: 1px solid white;
+}
+.nav-menu {
+  background-color: #030303;
+}
+.nav-menu a {
+  color: #fff;
+  margin: 5px;
+  text-transform: uppercase;
+}
+.page-header {
+  height: 900px;
+  background-image: url("../img/pageheader.png");
+  background-size: cover;
+}
