@@ -35,4 +35,39 @@ body {
   height: 900px;
   background-image: url("../img/pageheader.png");
   background-size: cover;
+  background-position: center;
+}
+.products .p1{
+  background-color: #303030;
+  padding-top: 75px;
+  padding-right: 0;
+}
+.products .p2{
+  background-color: #1c1c1c;
+  padding-top: 75px;
+}
+.products img{
+    width: 325px;
+}
+.products .p3{
+  background-color: #1c1c1c;
+  padding-top: 75px;
+}
+.products .p4{
+  background-color: #303030;
+  padding-top: 75px;
+}
+.products .p4 img{
+  width: 270px;
+}
+.featured{
+  background-color: #282828;
+}
+.featured-header{
+  padding-top:80px;
+  padding-bottom:80px;
+}
+.featured hr{
+  border-top: 4px solid #9c1c28 !important;
+  width: 250px;
 }
